@@ -157,4 +157,4 @@ function getRandomInterval(min, max) {
 
 
   //Setting Interval and calling main function in every interval
-setInterval(checkEmailsAndSendReplies, getRandomInterval(60, 90) * 1000);
+setInterval(checkEmailsAndSendReplies, getRandomInterval(45, 120) * 1000);
